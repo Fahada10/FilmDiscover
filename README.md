@@ -4,4 +4,3 @@ This project is a React application with functionalities for movie searching and
 
 
 
-
