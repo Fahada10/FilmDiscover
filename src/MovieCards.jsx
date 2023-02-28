@@ -1,6 +1,7 @@
 import React from "react";
 
 export default function MovieCards({ movies }) {
+  
   return (
     <div className="card-list">
       {movies
